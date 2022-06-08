@@ -1,0 +1,37 @@
+[
+	{
+		"id": 1,
+		"name": "Arigael",
+		"photoUrl": "https://i.imgur.com/1lZbgK9.png"
+	},
+	{
+		"id": 2,
+		"name": "Durakh Rime-Walker",
+		"photoUrl": "https://i.imgur.com/792d2nx.png"
+	},
+	{
+		"id": 3,
+		"name": "Eithnir",
+		"photoUrl": "https://i.imgur.com/TrqYlGK.png"
+	},
+	{
+		"id": 4,
+		"name": "Gyrard Notte",
+		"photoUrl": "https://i.imgur.com/6Ob6QPR.png"
+	},
+	{
+		"id": 5,
+		"name": "Haliana Everbloom",
+		"photoUrl": "https://i.imgur.com/zDAE7lw.png"
+	},
+	{
+		"id": 6,
+		"name": "Ivetia",
+		"photoUrl": "https://i.imgur.com/rLEnEri.png"
+	},
+	{
+		"id": 7,
+		"name": "Viera Curio",
+		"photoUrl": "https://i.imgur.com/a0mQysq.png"
+	}
+]
